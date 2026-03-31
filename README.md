@@ -1,5 +1,3 @@
-This Git repository contains supporting files for the "Certified Kubernetes Administrator (CKA)" video course. See https://sandervanvugt.com for more details. It is also used in the "CKA Crash Course" available at https://learning.oreilly.com.
-
 ## Lab Environment Requirements (RHEL Version)
 
 In this course, you need to build your own lab environment. The lab environment should consist of **3 virtual machines**, running **Red Hat Enterprise Linux (RHEL) 9.5 or later**.
